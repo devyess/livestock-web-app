@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+imbalanced-learn
+joblib
+numpy
